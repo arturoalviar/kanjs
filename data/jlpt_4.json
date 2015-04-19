@@ -1,0 +1,998 @@
+[
+    {
+        "kanji": "会",
+        "on": "カイ エ アツ.マ",
+        "kun": "あ.う あ.わせる",
+        "eng": "meeting, meet, party, association, interview, join"
+    },
+    {
+        "kanji": "同",
+        "on": "ドウ",
+        "kun": "おな.じ",
+        "eng": "same, agree, equal"
+    },
+    {
+        "kanji": "事",
+        "on": "ジ ズ ツカ.エ",
+        "kun": "こと つか.う",
+        "eng": "matter, thing, fact, business, reason, possibly"
+    },
+    {
+        "kanji": "自",
+        "on": "ジ シ オノ.ズ",
+        "kun": "みずか.ら おの.ずから",
+        "eng": "oneself"
+    },
+    {
+        "kanji": "社",
+        "on": "シャ ヤシ",
+        "kun": "",
+        "eng": "company, firm, office, association, shrine"
+    },
+    {
+        "kanji": "発",
+        "on": "ハツ ホツ ハナ.",
+        "kun": "た.つ あば.く おこ.る つか.わす",
+        "eng": "discharge, departure, publish, emit, start from, disclose"
+    },
+    {
+        "kanji": "者",
+        "on": "シャ",
+        "kun": "もの",
+        "eng": "someone, person"
+    },
+    {
+        "kanji": "地",
+        "on": "チ",
+        "kun": "",
+        "eng": "ground, earth"
+    },
+    {
+        "kanji": "業",
+        "on": "ギョウ ゴウ ワ",
+        "kun": "",
+        "eng": "business, vocation, arts, performance"
+    },
+    {
+        "kanji": "方",
+        "on": "ホウ -ガ",
+        "kun": "かた -かた",
+        "eng": "direction, person, alternative"
+    },
+    {
+        "kanji": "新",
+        "on": "シン",
+        "kun": "あたら.しい あら.た あら- にい",
+        "eng": "new"
+    },
+    {
+        "kanji": "場",
+        "on": "ジョウ チョウ",
+        "kun": "ば",
+        "eng": "location, place"
+    },
+    {
+        "kanji": "員",
+        "on": "イ",
+        "kun": "",
+        "eng": "employee, member, number, the one in charge"
+    },
+    {
+        "kanji": "立",
+        "on": "リツ リュウ リットル -ダ.テ",
+        "kun": "た.つ -た.つ た.ち- た.てる -た.てる た.て- たて- -た.て -だ.て",
+        "eng": "stand up"
+    },
+    {
+        "kanji": "開",
+        "on": "カイ ア.ケ",
+        "kun": "ひら.く ひら.き -びら.き ひら.ける あ.く",
+        "eng": "open, unfold, unseal"
+    },
+    {
+        "kanji": "手",
+        "on": "シュ ズ",
+        "kun": "て て- -て た-",
+        "eng": "hand"
+    },
+    {
+        "kanji": "力",
+        "on": "リョク リキ リイ チカ",
+        "kun": "",
+        "eng": "power, strong, strain, bear up, exert"
+    },
+    {
+        "kanji": "問",
+        "on": "モン ト",
+        "kun": "と.う と.い",
+        "eng": "question, ask, problem"
+    },
+    {
+        "kanji": "代",
+        "on": "ダイ タイ シ",
+        "kun": "か.わる かわ.る かわ.り -がわ.り か.える よ",
+        "eng": "substitute, change, convert, replace, period, age, generation, charge, rate, fee"
+    },
+    {
+        "kanji": "明",
+        "on": "メイ ミョウ ミン ア.カ",
+        "kun": "あ.かり あか.るい あか.るむ あか.らむ あき.らか あ.ける -あ.け あ.く あ.くる",
+        "eng": "bright, light"
+    },
+    {
+        "kanji": "動",
+        "on": "ドウ ウゴ.カ",
+        "kun": "うご.く",
+        "eng": "move, motion, change, confusion, shift, shake"
+    },
+    {
+        "kanji": "京",
+        "on": "キョウ ケイ キン ミヤ",
+        "kun": "",
+        "eng": "capital, 10**16"
+    },
+    {
+        "kanji": "目",
+        "on": "モク ボク",
+        "kun": "め -め ま",
+        "eng": "eye, class, look, insight, experience, care, favor"
+    },
+    {
+        "kanji": "通",
+        "on": "ツウ ツ カヨ.",
+        "kun": "とお.る とお.り -とお.り -どお.り とお.す とお.し -どお.し",
+        "eng": "traffic, pass through, avenue, commute, counter for letters"
+    },
+    {
+        "kanji": "言",
+        "on": "ゲン ゴン コ",
+        "kun": "い.う",
+        "eng": "say"
+    },
+    {
+        "kanji": "理",
+        "on": "リ コトワ",
+        "kun": "",
+        "eng": "logic, arrangement, reason, justice, truth"
+    },
+    {
+        "kanji": "体",
+        "on": "タイ テイ カタ",
+        "kun": "からだ",
+        "eng": "body, substance, object, reality, counter for images"
+    },
+    {
+        "kanji": "田",
+        "on": "デン",
+        "kun": "",
+        "eng": "rice field, rice paddy"
+    },
+    {
+        "kanji": "主",
+        "on": "シュ ス シュウ アル",
+        "kun": "ぬし おも",
+        "eng": "lord, chief, master, main thing, principal"
+    },
+    {
+        "kanji": "題",
+        "on": "ダイ",
+        "kun": "",
+        "eng": "topic, subject"
+    },
+    {
+        "kanji": "意",
+        "on": "",
+        "kun": "",
+        "eng": "idea, mind, heart, taste, thought, desire, care, liking"
+    },
+    {
+        "kanji": "不",
+        "on": "フ ブ",
+        "kun": "",
+        "eng": "negative, non-, bad, ugly, clumsy"
+    },
+    {
+        "kanji": "作",
+        "on": "サク サ -ヅク.",
+        "kun": "つく.る つく.り",
+        "eng": "make, production, prepare, build"
+    },
+    {
+        "kanji": "用",
+        "on": "ヨウ モチ.イ",
+        "kun": "",
+        "eng": "utilize, business, service, use, employ"
+    },
+    {
+        "kanji": "度",
+        "on": "ド ト タク -タ.",
+        "kun": "たび",
+        "eng": "degrees, occurrence, time, counter for occurrences"
+    },
+    {
+        "kanji": "強",
+        "on": "キョウ ゴウ コワ.",
+        "kun": "つよ.い つよ.まる つよ.める し.いる",
+        "eng": "strong"
+    },
+    {
+        "kanji": "公",
+        "on": "コウ ク オオヤ",
+        "kun": "",
+        "eng": "public, prince, official, governmental"
+    },
+    {
+        "kanji": "持",
+        "on": "ジ モ.テ",
+        "kun": "も.つ -も.ち",
+        "eng": "hold, have"
+    },
+    {
+        "kanji": "野",
+        "on": "ヤ ショ",
+        "kun": "の の",
+        "eng": "plains, field, rustic, civilian life"
+    },
+    {
+        "kanji": "以",
+        "on": "イ モッ.",
+        "kun": "",
+        "eng": "by means of, because, in view of, compared with"
+    },
+    {
+        "kanji": "思",
+        "on": "シ",
+        "kun": "おも.う おもえら.く おぼ.す",
+        "eng": "think"
+    },
+    {
+        "kanji": "家",
+        "on": "カ ケ ウ",
+        "kun": "いえ や",
+        "eng": "house, home"
+    },
+    {
+        "kanji": "世",
+        "on": "セイ セ ソウ サンジュ",
+        "kun": "よ",
+        "eng": "generation, world, society, public"
+    },
+    {
+        "kanji": "多",
+        "on": "タ",
+        "kun": "おお.い まさ.に まさ.る",
+        "eng": "many, frequent, much"
+    },
+    {
+        "kanji": "正",
+        "on": "セイ ショウ マサ.",
+        "kun": "ただ.しい ただ.す まさ",
+        "eng": "correct, justice, righteous, 10**40"
+    },
+    {
+        "kanji": "安",
+        "on": "アン ヤス.ラ",
+        "kun": "やす.い やす.まる やす",
+        "eng": "relax, cheap, low, quiet, rested, contented, peaceful"
+    },
+    {
+        "kanji": "院",
+        "on": "イン",
+        "kun": "",
+        "eng": "Inst., institution, temple, mansion, school"
+    },
+    {
+        "kanji": "心",
+        "on": "",
+        "kun": "りっしんべん",
+        "eng": "heart, mind, spirit"
+    },
+    {
+        "kanji": "界",
+        "on": "カイ",
+        "kun": "",
+        "eng": "world"
+    },
+    {
+        "kanji": "教",
+        "on": "キョウ オソ.ワ",
+        "kun": "おし.える",
+        "eng": "teach, faith, doctrine"
+    },
+    {
+        "kanji": "文",
+        "on": "ブン モン ア",
+        "kun": "ふみ",
+        "eng": "sentence, literature, style, art, decoration, figures, plan"
+    },
+    {
+        "kanji": "元",
+        "on": "ゲン ガン モ",
+        "kun": "",
+        "eng": "beginning, former time, origin"
+    },
+    {
+        "kanji": "重",
+        "on": "ジュウ チョウ オ",
+        "kun": "え おも.い おも.り おも.なう かさ.ねる かさ.なる",
+        "eng": "heavy, heap up, pile up, nest of boxes, -fold"
+    },
+    {
+        "kanji": "近",
+        "on": "キン コン チカ.",
+        "kun": "",
+        "eng": "near, early, akin, tantamount"
+    },
+    {
+        "kanji": "考",
+        "on": "コウ カンガ.",
+        "kun": "かんが.える",
+        "eng": "consider, think over"
+    },
+    {
+        "kanji": "画",
+        "on": "ガ カク エ カイ",
+        "kun": "えが.く かく.する かぎ.る はかりごと はか.る",
+        "eng": "brush-stroke, picture"
+    },
+    {
+        "kanji": "海",
+        "on": "カイ ウ",
+        "kun": "",
+        "eng": "sea, ocean"
+    },
+    {
+        "kanji": "売",
+        "on": "バイ ウ.レ",
+        "kun": "う.る",
+        "eng": "sell"
+    },
+    {
+        "kanji": "知",
+        "on": "チ シ.ラセ",
+        "kun": "し.る",
+        "eng": "know, wisdom"
+    },
+    {
+        "kanji": "道",
+        "on": "ドウ トウ ミ",
+        "kun": "",
+        "eng": "road-way, street, district, journey, course, moral, teachings"
+    },
+    {
+        "kanji": "集",
+        "on": "シュウ ツド.",
+        "kun": "あつ.まる あつ.める",
+        "eng": "gather, meet, congregate, swarm, flock"
+    },
+    {
+        "kanji": "別",
+        "on": "ベツ ワ.ケ",
+        "kun": "わか.れる",
+        "eng": "separate, branch off, diverge, fork, another, extra, specially"
+    },
+    {
+        "kanji": "物",
+        "on": "ブツ モツ",
+        "kun": "もの もの-",
+        "eng": "thing, object, matter"
+    },
+    {
+        "kanji": "使",
+        "on": "シ",
+        "kun": "つか.う つか.い -つか.い -づか.い",
+        "eng": "use"
+    },
+    {
+        "kanji": "品",
+        "on": "ヒン ホン",
+        "kun": "しな",
+        "eng": "goods, refinement, dignity, article, counter for meal courses"
+    },
+    {
+        "kanji": "計",
+        "on": "ケイ ハカ.ラ",
+        "kun": "はか.る",
+        "eng": "plot, plan, scheme, measure"
+    },
+    {
+        "kanji": "死",
+        "on": "シ",
+        "kun": "し.ぬ し.に-",
+        "eng": "death, die"
+    },
+    {
+        "kanji": "特",
+        "on": "トク",
+        "kun": "",
+        "eng": "special"
+    },
+    {
+        "kanji": "私",
+        "on": "シ",
+        "kun": "わたくし わたし",
+        "eng": "private, I, me"
+    },
+    {
+        "kanji": "始",
+        "on": "シ ハジ.マ",
+        "kun": "はじ.める -はじ.める",
+        "eng": "commence, begin"
+    },
+    {
+        "kanji": "朝",
+        "on": "チョウ ア",
+        "kun": "",
+        "eng": "morning, dynasty, regime, epoch, period, (North) Korea"
+    },
+    {
+        "kanji": "運",
+        "on": "ウン",
+        "kun": "はこ.ぶ",
+        "eng": "carry, luck, destiny, fate, lot, transport, progress, advance"
+    },
+    {
+        "kanji": "終",
+        "on": "シュウ ツイ.",
+        "kun": "お.わる -お.わる おわ.る お.える つい",
+        "eng": "end, finish"
+    },
+    {
+        "kanji": "台",
+        "on": "ダイ タイ",
+        "kun": "うてな われ つかさ",
+        "eng": "pedestal, a stand, counter for machines and vehicles"
+    },
+    {
+        "kanji": "広",
+        "on": "コウ",
+        "kun": "ひろ.い ひろ.まる ひろ.める ひろ.がる ひろ.げる",
+        "eng": "wide, broad, spacious"
+    },
+    {
+        "kanji": "住",
+        "on": "ジュウ ヂュウ チュウ -ズ.マ",
+        "kun": "す.む す.まう",
+        "eng": "dwell, reside, live, inhabit"
+    },
+    {
+        "kanji": "真",
+        "on": "シン マコ",
+        "kun": "ま ま-",
+        "eng": "true, reality, Buddhist sect"
+    },
+    {
+        "kanji": "有",
+        "on": "ユウ ウ ア.",
+        "kun": "",
+        "eng": "possess, have, exist, happen, occur, approx"
+    },
+    {
+        "kanji": "口",
+        "on": "コウ ク",
+        "kun": "くち",
+        "eng": "mouth"
+    },
+    {
+        "kanji": "少",
+        "on": "ショウ",
+        "kun": "すく.ない すこ.し",
+        "eng": "few, little"
+    },
+    {
+        "kanji": "町",
+        "on": "チョウ",
+        "kun": "まち",
+        "eng": "village, town, block, street"
+    },
+    {
+        "kanji": "料",
+        "on": "リョウ",
+        "kun": "",
+        "eng": "fee, materials"
+    },
+    {
+        "kanji": "工",
+        "on": "コウ ク",
+        "kun": "",
+        "eng": "craft, construction"
+    },
+    {
+        "kanji": "建",
+        "on": "ケン コン タ.",
+        "kun": "た.てる た.て -だ.て",
+        "eng": "build"
+    },
+    {
+        "kanji": "空",
+        "on": "クウ ムナ.シ",
+        "kun": "そら あ.く あ.き あ.ける から す.く す.かす",
+        "eng": "empty, sky, void, vacant, vacuum"
+    },
+    {
+        "kanji": "急",
+        "on": "キュウ",
+        "kun": "いそ.ぐ いそ.ぎ",
+        "eng": "hurry, emergency, sudden, steep"
+    },
+    {
+        "kanji": "止",
+        "on": "シ -サ.",
+        "kun": "と.まる -ど.まり と.める -と.める -ど.め とど.める とど.め とど.まる や.める や.む -や.む よ.",
+        "eng": "stop, halt"
+    },
+    {
+        "kanji": "送",
+        "on": "ソウ",
+        "kun": "おく.る",
+        "eng": "escort, send"
+    },
+    {
+        "kanji": "切",
+        "on": "セツ サイ -ギ.",
+        "kun": "き.る -き.る き.り -き.り -ぎ.り き.れる -き.れる き.れ -き.れ",
+        "eng": "cut, cutoff, be sharp"
+    },
+    {
+        "kanji": "転",
+        "on": "テン",
+        "kun": "ころ.がる ころ.げる ころ.がす ころ.ぶ まろ.ぶ うたた うつ.る",
+        "eng": "revolve, turn around, change"
+    },
+    {
+        "kanji": "研",
+        "on": "ケン ト.",
+        "kun": "",
+        "eng": "polish, study of, sharpen"
+    },
+    {
+        "kanji": "足",
+        "on": "ソク タ.",
+        "kun": "あし た.りる た.る",
+        "eng": "leg, foot, be sufficient, counter for pairs of footwear"
+    },
+    {
+        "kanji": "究",
+        "on": "キュウ ク キワ.メ",
+        "kun": "",
+        "eng": "research, study"
+    },
+    {
+        "kanji": "楽",
+        "on": "ガク ラク ゴウ コノ.",
+        "kun": "たの.しい たの.しむ",
+        "eng": "music, comfort, ease"
+    },
+    {
+        "kanji": "起",
+        "on": "キ",
+        "kun": "お.きる お.こる お.こす おこ.す た.つ",
+        "eng": "rouse, wake up, get up"
+    },
+    {
+        "kanji": "着",
+        "on": "チャク ジャク",
+        "kun": "き.る -ぎ き.せる -き.せ つ.く つ.ける",
+        "eng": "don, arrive, wear, counter for suits of clothing"
+    },
+    {
+        "kanji": "店",
+        "on": "テン",
+        "kun": "みせ たな",
+        "eng": "store, shop"
+    },
+    {
+        "kanji": "病",
+        "on": "ビョウ ヘイ",
+        "kun": "や.む -や.み やまい",
+        "eng": "ill, sick"
+    },
+    {
+        "kanji": "質",
+        "on": "シツ シチ チ",
+        "kun": "たち ただ.す もと わりふ",
+        "eng": "substance, quality, matter, temperament"
+    },
+    {
+        "kanji": "待",
+        "on": "タイ -マ.",
+        "kun": "ま.つ",
+        "eng": "wait, depend on"
+    },
+    {
+        "kanji": "試",
+        "on": "シ",
+        "kun": "こころ.みる ため.す",
+        "eng": "test, try, attempt, experiment, ordeal"
+    },
+    {
+        "kanji": "族",
+        "on": "ゾ",
+        "kun": "",
+        "eng": "tribe, family"
+    },
+    {
+        "kanji": "銀",
+        "on": "ギン シロガ",
+        "kun": "",
+        "eng": "silver"
+    },
+    {
+        "kanji": "早",
+        "on": "ソウ サッ",
+        "kun": "はや.い はや はや- はや.まる はや.める さ",
+        "eng": "early, fast"
+    },
+    {
+        "kanji": "映",
+        "on": "エイ -バ.",
+        "kun": "うつ.る うつ.す は.える",
+        "eng": "reflect, reflection, projection"
+    },
+    {
+        "kanji": "親",
+        "on": "シン シタ.シ",
+        "kun": "おや おや- した.しい",
+        "eng": "parent, intimacy, relative, familiarity, dealer (cards)"
+    },
+    {
+        "kanji": "験",
+        "on": "ケン ゲン",
+        "kun": "あかし しるし ため.す ためし",
+        "eng": "verification, effect, testing"
+    },
+    {
+        "kanji": "英",
+        "on": "エイ ハナブ",
+        "kun": "",
+        "eng": "England, English"
+    },
+    {
+        "kanji": "医",
+        "on": "イ",
+        "kun": "い.やす い.する くすし",
+        "eng": "doctor, medicine"
+    },
+    {
+        "kanji": "仕",
+        "on": "シ ジ",
+        "kun": "つか.える",
+        "eng": "attend, doing, official, serve"
+    },
+    {
+        "kanji": "去",
+        "on": "キョ コ -サ.",
+        "kun": "さ.る",
+        "eng": "gone, past, quit, leave, elapse, eliminate, divorce"
+    },
+    {
+        "kanji": "味",
+        "on": "ミ",
+        "kun": "あじ あじ.わう",
+        "eng": "flavor, taste"
+    },
+    {
+        "kanji": "写",
+        "on": "シャ ジャ",
+        "kun": "うつ.す うつ.る うつ- うつ.し",
+        "eng": "copy, be photographed, describe"
+    },
+    {
+        "kanji": "字",
+        "on": "ジ",
+        "kun": "あざ あざな -な",
+        "eng": "character, letter, word, section of village"
+    },
+    {
+        "kanji": "答",
+        "on": "トウ コタ.",
+        "kun": "こた.える",
+        "eng": "solution, answer"
+    },
+    {
+        "kanji": "夜",
+        "on": "ヤ",
+        "kun": "よ よる",
+        "eng": "night, evening"
+    },
+    {
+        "kanji": "音",
+        "on": "オン イン -ノン",
+        "kun": "おと",
+        "eng": "sound, noise"
+    },
+    {
+        "kanji": "注",
+        "on": "チュウ",
+        "kun": "そそ.ぐ さ.す つ.ぐ",
+        "eng": "pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate"
+    },
+    {
+        "kanji": "帰",
+        "on": "キ",
+        "kun": "かえ.る かえ.す おく.る とつ.ぐ",
+        "eng": "homecoming, arrive at, lead to, result in"
+    },
+    {
+        "kanji": "古",
+        "on": "コ -フル.",
+        "kun": "ふる.い ふる-",
+        "eng": "old"
+    },
+    {
+        "kanji": "歌",
+        "on": "カ",
+        "kun": "うた うた.う",
+        "eng": "song, sing"
+    },
+    {
+        "kanji": "買",
+        "on": "バイ",
+        "kun": "か.う",
+        "eng": "buy"
+    },
+    {
+        "kanji": "悪",
+        "on": "アク オ",
+        "kun": "わる.い わる- あ.し にく.い -にく.い ああ いずくに いずくんぞ にく.む",
+        "eng": "bad, vice, rascal, false, evil, wrong"
+    },
+    {
+        "kanji": "図",
+        "on": "ズ ト ハカ.",
+        "kun": "え",
+        "eng": "map, drawing, plan, unexpected, accidentally"
+    },
+    {
+        "kanji": "週",
+        "on": "シュウ",
+        "kun": "",
+        "eng": "week"
+    },
+    {
+        "kanji": "室",
+        "on": "シツ",
+        "kun": "むろ",
+        "eng": "room, apartment, chamber, greenhouse, cellar"
+    },
+    {
+        "kanji": "歩",
+        "on": "ホ ブ フ アユ.",
+        "kun": "ある.く",
+        "eng": "walk, counter for steps"
+    },
+    {
+        "kanji": "風",
+        "on": "フウ フ -カ",
+        "kun": "かぜ かざ-",
+        "eng": "wind, air, style, manner"
+    },
+    {
+        "kanji": "紙",
+        "on": "シ",
+        "kun": "かみ",
+        "eng": "paper"
+    },
+    {
+        "kanji": "黒",
+        "on": "コク",
+        "kun": "くろ くろ.ずむ くろ.い",
+        "eng": "black"
+    },
+    {
+        "kanji": "花",
+        "on": "カ ケ ハ",
+        "kun": "",
+        "eng": "flower"
+    },
+    {
+        "kanji": "春",
+        "on": "シュン ハ",
+        "kun": "",
+        "eng": "springtime, spring (season)"
+    },
+    {
+        "kanji": "赤",
+        "on": "セキ シャク アカ.ラメ",
+        "kun": "あか あか- あか.い あか.らむ",
+        "eng": "red"
+    },
+    {
+        "kanji": "青",
+        "on": "セイ ショウ アオ.",
+        "kun": "あお あお-",
+        "eng": "blue, green"
+    },
+    {
+        "kanji": "館",
+        "on": "カン タ",
+        "kun": "やかた",
+        "eng": "building, mansion, large building, palace"
+    },
+    {
+        "kanji": "屋",
+        "on": "オク",
+        "kun": "",
+        "eng": "roof, house, shop, dealer, seller"
+    },
+    {
+        "kanji": "色",
+        "on": "ショク シキ イ",
+        "kun": "",
+        "eng": "color"
+    },
+    {
+        "kanji": "走",
+        "on": "ソウ ハシ.",
+        "kun": "",
+        "eng": "run"
+    },
+    {
+        "kanji": "秋",
+        "on": "シュウ ト",
+        "kun": "あき",
+        "eng": "autumn"
+    },
+    {
+        "kanji": "夏",
+        "on": "カ ガ ゲ",
+        "kun": "なつ",
+        "eng": "summer"
+    },
+    {
+        "kanji": "習",
+        "on": "シュウ ジュ",
+        "kun": "なら.う なら.い",
+        "eng": "learn"
+    },
+    {
+        "kanji": "駅",
+        "on": "エキ",
+        "kun": "",
+        "eng": "station"
+    },
+    {
+        "kanji": "洋",
+        "on": "ヨ",
+        "kun": "",
+        "eng": "ocean, western style"
+    },
+    {
+        "kanji": "旅",
+        "on": "リョ",
+        "kun": "たび",
+        "eng": "trip, travel"
+    },
+    {
+        "kanji": "服",
+        "on": "フ",
+        "kun": "",
+        "eng": "clothing, admit, obey, discharge"
+    },
+    {
+        "kanji": "夕",
+        "on": "セキ ユ",
+        "kun": "",
+        "eng": "evening"
+    },
+    {
+        "kanji": "借",
+        "on": "シャク",
+        "kun": "か.りる",
+        "eng": "borrow, rent"
+    },
+    {
+        "kanji": "曜",
+        "on": "ヨ",
+        "kun": "",
+        "eng": "weekday"
+    },
+    {
+        "kanji": "飲",
+        "on": "イン オン",
+        "kun": "の.む -の.み",
+        "eng": "drink, smoke, take"
+    },
+    {
+        "kanji": "肉",
+        "on": "ニク",
+        "kun": "",
+        "eng": "meat"
+    },
+    {
+        "kanji": "貸",
+        "on": "タイ",
+        "kun": "か.す か.し- かし-",
+        "eng": "lend"
+    },
+    {
+        "kanji": "堂",
+        "on": "ドウ",
+        "kun": "",
+        "eng": "public chamber, hall"
+    },
+    {
+        "kanji": "鳥",
+        "on": "チョウ ト",
+        "kun": "",
+        "eng": "bird, chicken"
+    },
+    {
+        "kanji": "飯",
+        "on": "ハン メ",
+        "kun": "",
+        "eng": "meal, boiled rice"
+    },
+    {
+        "kanji": "勉",
+        "on": "ベン ツト.メ",
+        "kun": "",
+        "eng": "exertion"
+    },
+    {
+        "kanji": "冬",
+        "on": "トウ",
+        "kun": "ふゆ",
+        "eng": "winter"
+    },
+    {
+        "kanji": "昼",
+        "on": "チュウ",
+        "kun": "ひる",
+        "eng": "daytime, noon"
+    },
+    {
+        "kanji": "茶",
+        "on": "チャ",
+        "kun": "",
+        "eng": "tea"
+    },
+    {
+        "kanji": "弟",
+        "on": "テイ ダイ デ オトウ",
+        "kun": "",
+        "eng": "younger brother, faithful service to elders"
+    },
+    {
+        "kanji": "牛",
+        "on": "ギュウ ウ",
+        "kun": "",
+        "eng": "cow"
+    },
+    {
+        "kanji": "魚",
+        "on": "ギョ -ザカ",
+        "kun": "うお さかな",
+        "eng": "fish"
+    },
+    {
+        "kanji": "兄",
+        "on": "ケイ キョウ ア",
+        "kun": "",
+        "eng": "elder brother, big brother"
+    },
+    {
+        "kanji": "犬",
+        "on": "ケン",
+        "kun": "いぬ いぬ-",
+        "eng": "dog"
+    },
+    {
+        "kanji": "妹",
+        "on": "マイ イモウ",
+        "kun": "",
+        "eng": "younger sister"
+    },
+    {
+        "kanji": "姉",
+        "on": "シ",
+        "kun": "あね はは",
+        "eng": "elder sister"
+    },
+    {
+        "kanji": "漢",
+        "on": "カ",
+        "kun": "",
+        "eng": "Sino-, China"
+    }
+]

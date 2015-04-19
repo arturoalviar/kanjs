@@ -1,0 +1,80 @@
+<section class="container clearfix">
+    <div class="container clearfix search">
+        <label class="label">Choose JLPT Level:
+            <select ng-model="selectJLPT" ng-options="item.value as item.name for item in items">
+                <option value="">--All Levels--</option>
+            </select>
+        </label>
+
+        <input ng-model="searchKanji" placeholder="Search Kanji" />
+    </div>
+    <div class="container">
+
+        <div class="button-group">
+            <a href="#/about">
+                <div class="button">
+                    About Kanjs
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="row section group " ng-repeat="item in kanji | filter:searchKanji | filter: selectJLPT | limitTo : limit">
+        <label class="label">Hide 漢字:
+            <input type="checkbox" ng-model="checked">
+            <br/>
+        </label>
+        <div class="col col-3">
+            <div class="kanji" ng-show="!checked">
+                {{item.kanji}}
+            </div>
+        </div>
+
+        <div class="col col-3">
+            Hide 訓読み:
+            <input type="checkbox" ng-model="kunchecked">
+            <br/>
+            <p>
+                訓読み:
+                <span class="kun reading" ng-show="!kunchecked">{{item.kun}}</span>
+            </p>
+        </div>
+        <div class="col col-3">
+            Hide 音読み:
+            <input type="checkbox" ng-model="onchecked">
+            <br/>
+            <p>
+                音読み:
+                <span class="on reading" ng-show="!onchecked">{{item.on}}</span>
+            </p>
+        </div>
+        <div class="col col-3">
+            Hide 英語:
+            <input type="checkbox" ng-model="engchecked">
+            <br/>
+            <p>
+                英語:
+                <span class="eng reading" ng-show="!engchecked">{{item.eng}}</span>
+            </p>
+        </div>
+    </div>
+</section>
+
+<div class="container">
+
+    <div class="button-group">
+
+        <a href ng-click="moreKanji()">
+            <div class="button">
+                Load More &#10026;
+            </div>
+        </a>
+        <a href="#top">
+            <div class="button">
+                Back to Top &#8679;
+            </div>
+        </a>
+
+    </div>
+
+</div>

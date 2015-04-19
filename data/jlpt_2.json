@@ -1,0 +1,2204 @@
+[
+    {
+        "kanji": "党",
+        "kun": "なかま むら",
+        "on": "トウ",
+        "eng": "party, faction, clique"
+    },
+    {
+        "kanji": "協",
+        "kun": "",
+        "on": "キョウ",
+        "eng": "co-, cooperation"
+    },
+    {
+        "kanji": "総",
+        "kun": "す.べて すべ.て",
+        "on": "ソウ フ",
+        "eng": "general, whole, all, full, total"
+    },
+    {
+        "kanji": "区",
+        "kun": "",
+        "on": "ク オウ コウ",
+        "eng": "ward, district"
+    },
+    {
+        "kanji": "領",
+        "kun": "",
+        "on": "リョウ",
+        "eng": "jurisdiction, dominion, territory, fief, reign"
+    },
+    {
+        "kanji": "県",
+        "kun": "",
+        "on": "ケン カ.ケ",
+        "eng": "prefecture"
+    },
+    {
+        "kanji": "設",
+        "kun": "",
+        "on": "セツ モウ.ケ",
+        "eng": "establishment, provision, prepare"
+    },
+    {
+        "kanji": "改",
+        "kun": "あらた.める あらた.まる",
+        "on": "カイ",
+        "eng": "reformation, change, modify, mend, renew, examine, inspect, search"
+    },
+    {
+        "kanji": "府",
+        "kun": "",
+        "on": "",
+        "eng": "borough, urban prefecture, govt office, representative body, storehouse"
+    },
+    {
+        "kanji": "査",
+        "kun": "",
+        "on": "サ",
+        "eng": "investigate"
+    },
+    {
+        "kanji": "委",
+        "kun": "",
+        "on": "イ ユダ.ネ",
+        "eng": "committee, entrust to, leave to, devote, discard"
+    },
+    {
+        "kanji": "軍",
+        "kun": "",
+        "on": "グン",
+        "eng": "army, force, troops, war, battle"
+    },
+    {
+        "kanji": "団",
+        "kun": "かたまり まる.い",
+        "on": "ダン トン",
+        "eng": "group, association"
+    },
+    {
+        "kanji": "各",
+        "kun": "",
+        "on": "カク オノオ",
+        "eng": "each, every, either"
+    },
+    {
+        "kanji": "島",
+        "kun": "しま",
+        "on": "トウ",
+        "eng": "island"
+    },
+    {
+        "kanji": "革",
+        "kun": "かわ",
+        "on": "カク",
+        "eng": "leather, become serious, skin, hide, pelt"
+    },
+    {
+        "kanji": "村",
+        "kun": "",
+        "on": "ソン ム",
+        "eng": "town, village"
+    },
+    {
+        "kanji": "勢",
+        "kun": "いきお.い",
+        "on": "セイ ゼイ ハズ",
+        "eng": "forces, energy, military strength"
+    },
+    {
+        "kanji": "減",
+        "kun": "へ.る へ.らす",
+        "on": "ゲン",
+        "eng": "dwindle, decrease, reduce, decline, curtail, get hungry"
+    },
+    {
+        "kanji": "再",
+        "kun": "",
+        "on": "サイ サ フタタ.",
+        "eng": "again, twice, second time"
+    },
+    {
+        "kanji": "税",
+        "kun": "",
+        "on": "ゼ",
+        "eng": "tax, duty"
+    },
+    {
+        "kanji": "営",
+        "kun": "いとな.む いとな.み",
+        "on": "エイ",
+        "eng": "occupation, camp, perform, build, conduct (business)"
+    },
+    {
+        "kanji": "比",
+        "kun": "",
+        "on": "ヒ クラ.ベ",
+        "eng": "compare, race, ratio, Philipines"
+    },
+    {
+        "kanji": "防",
+        "kun": "",
+        "on": "ボウ フセ.",
+        "eng": "ward off, defend, protect, resist"
+    },
+    {
+        "kanji": "補",
+        "kun": "おぎな.う",
+        "on": "ホ",
+        "eng": "supplement, supply, make good, offset, compensate, assistant, learner"
+    },
+    {
+        "kanji": "境",
+        "kun": "",
+        "on": "キョウ ケイ サカ",
+        "eng": "boundary, border, region"
+    },
+    {
+        "kanji": "導",
+        "kun": "",
+        "on": "ドウ ミチビ.",
+        "eng": "guidance, leading, conduct, usher"
+    },
+    {
+        "kanji": "副",
+        "kun": "",
+        "on": "フ",
+        "eng": "vice-, duplicate, copy"
+    },
+    {
+        "kanji": "算",
+        "kun": "そろ",
+        "on": "サン",
+        "eng": "calculate, divining, number, abacus, probability"
+    },
+    {
+        "kanji": "輸",
+        "kun": "",
+        "on": "ユ シュ",
+        "eng": "transport, send, be inferior"
+    },
+    {
+        "kanji": "述",
+        "kun": "の.べる",
+        "on": "ジュツ",
+        "eng": "mention, state, speak, relate"
+    },
+    {
+        "kanji": "線",
+        "kun": "すじ",
+        "on": "セン",
+        "eng": "line, track"
+    },
+    {
+        "kanji": "農",
+        "kun": "",
+        "on": "ノ",
+        "eng": "agriculture, farmers"
+    },
+    {
+        "kanji": "州",
+        "kun": "",
+        "on": "シュウ ス",
+        "eng": "state, province"
+    },
+    {
+        "kanji": "武",
+        "kun": "",
+        "on": "ブ ム タケ.",
+        "eng": "warrior, military, chivalry, arms"
+    },
+    {
+        "kanji": "象",
+        "kun": "",
+        "on": "ショウ ゾウ カタド.",
+        "eng": "elephant, pattern after, imitate, image, shape, sign (of the times)"
+    },
+    {
+        "kanji": "域",
+        "kun": "",
+        "on": "イキ",
+        "eng": "range, region, limits, stage, level"
+    },
+    {
+        "kanji": "額",
+        "kun": "",
+        "on": "ガク ヒタ",
+        "eng": "forehead, tablet, plaque, framed picture, sum, amount, volume"
+    },
+    {
+        "kanji": "欧",
+        "kun": "うた.う",
+        "on": "オウ ハ.",
+        "eng": "Europe"
+    },
+    {
+        "kanji": "担",
+        "kun": "かつ.ぐ にな.う",
+        "on": "タン",
+        "eng": "shouldering, carry, raise, bear"
+    },
+    {
+        "kanji": "準",
+        "kun": "じゅん.じる じゅん.ずる なぞら.える のり ひと.しい みずもり",
+        "on": "ジュン",
+        "eng": "semi-, correspond to, proportionate to, conform, imitate"
+    },
+    {
+        "kanji": "賞",
+        "kun": "ほ.める",
+        "on": "ショウ",
+        "eng": "prize, reward, praise"
+    },
+    {
+        "kanji": "辺",
+        "kun": "あた.り ほと.り",
+        "on": "ヘン -",
+        "eng": "environs, boundary, border, vicinity"
+    },
+    {
+        "kanji": "造",
+        "kun": "つく.る つく.り",
+        "on": "ゾウ -ヅク.",
+        "eng": "create, make, structure, physique"
+    },
+    {
+        "kanji": "被",
+        "kun": "こうむ.る おお.う かぶ.る",
+        "on": "ヒ カブ.セ",
+        "eng": "incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving"
+    },
+    {
+        "kanji": "技",
+        "kun": "わざ",
+        "on": "ギ",
+        "eng": "skill, art, craft, ability, feat, performance, vocation, arts"
+    },
+    {
+        "kanji": "低",
+        "kun": "ひく.い ひく.める ひく.まる",
+        "on": "テイ",
+        "eng": "lower, short, humble"
+    },
+    {
+        "kanji": "復",
+        "kun": "また",
+        "on": "フク",
+        "eng": "restore, return to, revert, resume"
+    },
+    {
+        "kanji": "移",
+        "kun": "うつ.る うつ.す",
+        "on": "イ",
+        "eng": "shift, move, change, drift, catch (cold, fire), pass into"
+    },
+    {
+        "kanji": "個",
+        "kun": "",
+        "on": "コ カ",
+        "eng": "individual, counter for articles and military units"
+    },
+    {
+        "kanji": "門",
+        "kun": "かど",
+        "on": "モン",
+        "eng": "gates"
+    },
+    {
+        "kanji": "課",
+        "kun": "",
+        "on": "カ",
+        "eng": "chapter, lesson, section, department, division, counter for chapters (of a book)"
+    },
+    {
+        "kanji": "脳",
+        "kun": "のうずる",
+        "on": "ノウ ドウ",
+        "eng": "brain, memory"
+    },
+    {
+        "kanji": "極",
+        "kun": "きわ.める きわ.まる きわ.まり きわ.み き.める -ぎ.め き.まる",
+        "on": "キョク ゴク",
+        "eng": "poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48"
+    },
+    {
+        "kanji": "含",
+        "kun": "ふく.む ふく.める",
+        "on": "ガン",
+        "eng": "include, bear in mind, understand, cherish"
+    },
+    {
+        "kanji": "蔵",
+        "kun": "くら おさ.める",
+        "on": "ゾウ ソウ カク.レ",
+        "eng": "storehouse, hide, own, have, possess"
+    },
+    {
+        "kanji": "量",
+        "kun": "",
+        "on": "リョウ ハカ.",
+        "eng": "quantity, measure, weight, amount, consider, estimate, surmise"
+    },
+    {
+        "kanji": "型",
+        "kun": "かた -がた",
+        "on": "ケイ",
+        "eng": "mould, type, model"
+    },
+    {
+        "kanji": "況",
+        "kun": "まし.て いわ.んや おもむき",
+        "on": "キョウ",
+        "eng": "condition, situation"
+    },
+    {
+        "kanji": "針",
+        "kun": "",
+        "on": "シン ハ",
+        "eng": "needle, pin, staple, stinger"
+    },
+    {
+        "kanji": "専",
+        "kun": "もっぱ.ら",
+        "on": "セン",
+        "eng": "specialty, exclusive, mainly, solely"
+    },
+    {
+        "kanji": "谷",
+        "kun": "たに",
+        "on": "コク キワ.マ",
+        "eng": "valley"
+    },
+    {
+        "kanji": "史",
+        "kun": "",
+        "on": "",
+        "eng": "history, chronicle"
+    },
+    {
+        "kanji": "階",
+        "kun": "",
+        "on": "カイ キザハ",
+        "eng": "storey, stair, counter for storeys of a building"
+    },
+    {
+        "kanji": "管",
+        "kun": "",
+        "on": "カン ク",
+        "eng": "pipe, tube, wind instrument, drunken talk"
+    },
+    {
+        "kanji": "兵",
+        "kun": "",
+        "on": "ヘイ ヒョウ ツワモ",
+        "eng": "soldier, private, troops, army, warfare, strategy, tactics"
+    },
+    {
+        "kanji": "接",
+        "kun": "つ.ぐ",
+        "on": "セツ ショウ",
+        "eng": "touch, contact, adjoin, piece together"
+    },
+    {
+        "kanji": "細",
+        "kun": "ほそ.い ほそ.る こま.か こま.かい",
+        "on": "サイ",
+        "eng": "dainty, get thin, taper, slender, narrow"
+    },
+    {
+        "kanji": "効",
+        "kun": "き.く ききめ なら.う",
+        "on": "コウ",
+        "eng": "merit, efficacy, efficiency, benefit"
+    },
+    {
+        "kanji": "丸",
+        "kun": "まる まる.める",
+        "on": "ガン マル.",
+        "eng": "round, full, month, perfection, -ship, pills, make round, roll up, curl up, seduce, explain away"
+    },
+    {
+        "kanji": "湾",
+        "kun": "いりえ",
+        "on": "ワン",
+        "eng": "gulf, bay, inlet"
+    },
+    {
+        "kanji": "録",
+        "kun": "",
+        "on": "ロク",
+        "eng": "record"
+    },
+    {
+        "kanji": "省",
+        "kun": "かえり.みる",
+        "on": "セイ ショウ ハブ.",
+        "eng": "focus, government ministry, conserve"
+    },
+    {
+        "kanji": "旧",
+        "kun": "ふる.い もと",
+        "on": "キュウ",
+        "eng": "old times, old things, old friend, former, ex-"
+    },
+    {
+        "kanji": "橋",
+        "kun": "",
+        "on": "キョウ ハ",
+        "eng": "bridge"
+    },
+    {
+        "kanji": "岸",
+        "kun": "",
+        "on": "ガン キ",
+        "eng": "beach"
+    },
+    {
+        "kanji": "周",
+        "kun": "",
+        "on": "シュウ マワ.",
+        "eng": "circumference, circuit, lap"
+    },
+    {
+        "kanji": "材",
+        "kun": "",
+        "on": "ザ",
+        "eng": "lumber, log, timber, wood, talent"
+    },
+    {
+        "kanji": "戸",
+        "kun": "",
+        "on": "コ",
+        "eng": "door"
+    },
+    {
+        "kanji": "央",
+        "kun": "",
+        "on": "オ",
+        "eng": "center, middle"
+    },
+    {
+        "kanji": "券",
+        "kun": "",
+        "on": "ケン",
+        "eng": "ticket"
+    },
+    {
+        "kanji": "編",
+        "kun": "あ.む -あ.み",
+        "on": "ヘン",
+        "eng": "compilation, knit, plait, braid, twist, editing, completed poem, part of a book"
+    },
+    {
+        "kanji": "捜",
+        "kun": "さが.す",
+        "on": "ソウ シュ シュウ",
+        "eng": "search, look for, locate"
+    },
+    {
+        "kanji": "竹",
+        "kun": "",
+        "on": "チク タ",
+        "eng": "bamboo"
+    },
+    {
+        "kanji": "超",
+        "kun": "こ.える",
+        "on": "チョウ コ.",
+        "eng": "transcend, super-, ultra-"
+    },
+    {
+        "kanji": "並",
+        "kun": "な.み なら.べる なら.ぶ",
+        "on": "ヘイ ホウ ナラ.ビ",
+        "eng": "row, and, besides, as well as, line up, rank with, rival, equal"
+    },
+    {
+        "kanji": "療",
+        "kun": "",
+        "on": "リョウ",
+        "eng": "heal, cure"
+    },
+    {
+        "kanji": "採",
+        "kun": "と.る",
+        "on": "サイ",
+        "eng": "pick, take, fetch, take up"
+    },
+    {
+        "kanji": "森",
+        "kun": "",
+        "on": "シン モ",
+        "eng": "forest, woods"
+    },
+    {
+        "kanji": "競",
+        "kun": "きそ.う",
+        "on": "キョウ ケイ セ.",
+        "eng": "emulate, compete with, bid, sell at auction, bout, contest, race"
+    },
+    {
+        "kanji": "介",
+        "kun": "",
+        "on": "カ",
+        "eng": "jammed in, shellfish, mediate, concern oneself with"
+    },
+    {
+        "kanji": "根",
+        "kun": "ね -ね",
+        "on": "コン",
+        "eng": "root, radical, head (pimple)"
+    },
+    {
+        "kanji": "販",
+        "kun": "",
+        "on": "ハン",
+        "eng": "marketing, sell, trade"
+    },
+    {
+        "kanji": "歴",
+        "kun": "",
+        "on": "レキ レッキ",
+        "eng": "curriculum, continuation, passage of time"
+    },
+    {
+        "kanji": "将",
+        "kun": "まさ.に はた まさ ひきい.る",
+        "on": "ショウ ソウ モッ",
+        "eng": "leader, commander, general, admiral, or, and again, soon, from now on, just about"
+    },
+    {
+        "kanji": "幅",
+        "kun": "はば",
+        "on": "フク",
+        "eng": "hanging scroll, width"
+    },
+    {
+        "kanji": "般",
+        "kun": "",
+        "on": "ハン",
+        "eng": "carrier, carry, all"
+    },
+    {
+        "kanji": "貿",
+        "kun": "",
+        "on": "ボウ",
+        "eng": "trade, exchange"
+    },
+    {
+        "kanji": "講",
+        "kun": "",
+        "on": "コウ",
+        "eng": "lecture, club, association"
+    },
+    {
+        "kanji": "林",
+        "kun": "",
+        "on": "リン ハヤ",
+        "eng": "grove, forest"
+    },
+    {
+        "kanji": "装",
+        "kun": "よそお.う よそお.い",
+        "on": "ソウ ショウ",
+        "eng": "attire, dress, pretend, disguise, profess"
+    },
+    {
+        "kanji": "諸",
+        "kun": "もろ",
+        "on": "ショ",
+        "eng": "various, many, several, together"
+    },
+    {
+        "kanji": "劇",
+        "kun": "",
+        "on": "ゲキ",
+        "eng": "drama, play"
+    },
+    {
+        "kanji": "河",
+        "kun": "",
+        "on": "カ カ",
+        "eng": "river"
+    },
+    {
+        "kanji": "航",
+        "kun": "",
+        "on": "コ",
+        "eng": "navigate, sail, cruise, fly"
+    },
+    {
+        "kanji": "鉄",
+        "kun": "",
+        "on": "テツ クロガ",
+        "eng": "iron"
+    },
+    {
+        "kanji": "児",
+        "kun": "こ -こ",
+        "on": "ジ ニ ゲイ -ッ",
+        "eng": "newborn babe, child, young of animals"
+    },
+    {
+        "kanji": "禁",
+        "kun": "",
+        "on": "キン",
+        "eng": "prohibition, ban, forbid"
+    },
+    {
+        "kanji": "印",
+        "kun": "しるし -じるし しる.す",
+        "on": "イン",
+        "eng": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India"
+    },
+    {
+        "kanji": "逆",
+        "kun": "さか さか.さ さか.らう",
+        "on": "ギャク ゲキ",
+        "eng": "inverted, reverse, opposite, wicked"
+    },
+    {
+        "kanji": "換",
+        "kun": "か.える -か.える か.わる",
+        "on": "カン",
+        "eng": "interchange, period, charge, change?"
+    },
+    {
+        "kanji": "久",
+        "kun": "",
+        "on": "キュウ ク ヒサ.シ",
+        "eng": "long time, old story"
+    },
+    {
+        "kanji": "短",
+        "kun": "みじか.い",
+        "on": "タン",
+        "eng": "short, brevity, fault, defect, weak point"
+    },
+    {
+        "kanji": "油",
+        "kun": "あぶら",
+        "on": "ユ ユウ",
+        "eng": "oil, fat"
+    },
+    {
+        "kanji": "暴",
+        "kun": "あば.く あば.れる",
+        "on": "ボウ バク",
+        "eng": "outburst, rave, fret, force, violence, cruelty, outrage"
+    },
+    {
+        "kanji": "輪",
+        "kun": "",
+        "on": "リン",
+        "eng": "wheel, ring, circle, link, loop, counter for wheels and flowers"
+    },
+    {
+        "kanji": "占",
+        "kun": "し.める",
+        "on": "セン ウラナ.",
+        "eng": "fortune-telling, divining, forecasting, occupy, hold, have, get, take"
+    },
+    {
+        "kanji": "植",
+        "kun": "う.える",
+        "on": "ショク ウ.ワ",
+        "eng": "plant"
+    },
+    {
+        "kanji": "清",
+        "kun": "きよ.い きよ.まる",
+        "on": "セイ ショウ シン キヨ.メ",
+        "eng": "pure, purify, cleanse, exorcise, Manchu dynasty"
+    },
+    {
+        "kanji": "倍",
+        "kun": "",
+        "on": "バ",
+        "eng": "double, twice, times, fold"
+    },
+    {
+        "kanji": "均",
+        "kun": "",
+        "on": "キン ナラ.",
+        "eng": "level, average"
+    },
+    {
+        "kanji": "億",
+        "kun": "",
+        "on": "オ",
+        "eng": "hundred million, 10**8"
+    },
+    {
+        "kanji": "圧",
+        "kun": "お.す へ.す おさ.える お.さえる",
+        "on": "アツ エン オウ",
+        "eng": "pressure, push, overwhelm, oppress, dominate"
+    },
+    {
+        "kanji": "芸",
+        "kun": "う.える のり",
+        "on": "ゲイ ウン ワ",
+        "eng": "technique, art, craft, performance, acting, trick, stunt"
+    },
+    {
+        "kanji": "署",
+        "kun": "",
+        "on": "ショ",
+        "eng": "signature, govt office, police station"
+    },
+    {
+        "kanji": "伸",
+        "kun": "の.びる の.ばす の.べる",
+        "on": "シン ノ.",
+        "eng": "expand, stretch, extend, lengthen, increase"
+    },
+    {
+        "kanji": "停",
+        "kun": "と.める と.まる",
+        "on": "テイ",
+        "eng": "halt, stopping"
+    },
+    {
+        "kanji": "爆",
+        "kun": "は.ぜる",
+        "on": "バク",
+        "eng": "bomb, burst open, pop, split"
+    },
+    {
+        "kanji": "陸",
+        "kun": "",
+        "on": "リク ロク オ",
+        "eng": "land, six"
+    },
+    {
+        "kanji": "玉",
+        "kun": "たま たま-",
+        "on": "ギョク -ダ",
+        "eng": "jewel, ball"
+    },
+    {
+        "kanji": "波",
+        "kun": "",
+        "on": "ハ ナ",
+        "eng": "waves, billows, Poland"
+    },
+    {
+        "kanji": "帯",
+        "kun": "お.びる",
+        "on": "タイ オ",
+        "eng": "sash, belt, obi, zone, region"
+    },
+    {
+        "kanji": "延",
+        "kun": "の.びる の.べる の.べ",
+        "on": "エン ノ.バ",
+        "eng": "prolong, stretching"
+    },
+    {
+        "kanji": "羽",
+        "kun": "は わ",
+        "on": "ウ ハ",
+        "eng": "feathers, counter for birds, rabbits"
+    },
+    {
+        "kanji": "固",
+        "kun": "かた.める かた.まる かた.まり かた.い",
+        "on": "コ",
+        "eng": "harden, set, clot, curdle"
+    },
+    {
+        "kanji": "則",
+        "kun": "",
+        "on": "ソク ノット.",
+        "eng": "rule, follow, based on, model after"
+    },
+    {
+        "kanji": "乱",
+        "kun": "みだ.れる みだ.る みだ.す みだ おさ.める",
+        "on": "ラン ロン ワタ.",
+        "eng": "riot, war, disorder, disturb"
+    },
+    {
+        "kanji": "普",
+        "kun": "あまね.く",
+        "on": "フ アマネ",
+        "eng": "universal, wide(ly), generally, Prussia"
+    },
+    {
+        "kanji": "測",
+        "kun": "はか.る",
+        "on": "ソク",
+        "eng": "fathom, plan, scheme, measure"
+    },
+    {
+        "kanji": "豊",
+        "kun": "ゆた.か",
+        "on": "ホウ ブ ト",
+        "eng": "bountiful, excellent, rich"
+    },
+    {
+        "kanji": "厚",
+        "kun": "あつ.い",
+        "on": "コウ ア",
+        "eng": "thick, heavy, rich, kind, cordial, brazen, shameless"
+    },
+    {
+        "kanji": "齢",
+        "kun": "よわ.い とし",
+        "on": "レイ",
+        "eng": "age"
+    },
+    {
+        "kanji": "囲",
+        "kun": "かこ.む かこ.う かこ.い",
+        "on": "イ",
+        "eng": "surround, besiege, store, paling, enclosure, encircle, preserve, keep"
+    },
+    {
+        "kanji": "卒",
+        "kun": "そっ.する お.える お.わる ついに にわか",
+        "on": "ソツ シュツ",
+        "eng": "graduate, soldier, private, die"
+    },
+    {
+        "kanji": "略",
+        "kun": "ほぼ おか.す おさ.める はかりごと はか.る はぶ.く りゃく.す りゃく.する",
+        "on": "リャク",
+        "eng": "abbreviation, omission, outline, shorten, capture, plunder"
+    },
+    {
+        "kanji": "承",
+        "kun": "うけたまわ.る",
+        "on": "ショウ ウ.ケ",
+        "eng": "acquiesce, hear, listen to, be informed, receive"
+    },
+    {
+        "kanji": "順",
+        "kun": "",
+        "on": "ジュ",
+        "eng": "obey, order, turn, right, docility, occasion"
+    },
+    {
+        "kanji": "岩",
+        "kun": "いわ",
+        "on": "ガン",
+        "eng": "boulder, rock, cliff"
+    },
+    {
+        "kanji": "練",
+        "kun": "ね.る",
+        "on": "レン ネ.",
+        "eng": "practice, gloss, train, drill, polish, refine"
+    },
+    {
+        "kanji": "軽",
+        "kun": "かる.い かろ.やか かろ.んじる",
+        "on": "ケイ",
+        "eng": "lightly, trifling, unimportant"
+    },
+    {
+        "kanji": "了",
+        "kun": "",
+        "on": "リョ",
+        "eng": "complete, finish"
+    },
+    {
+        "kanji": "庁",
+        "kun": "やくしょ",
+        "on": "チョウ テイ",
+        "eng": "government office"
+    },
+    {
+        "kanji": "城",
+        "kun": "",
+        "on": "ジョウ シ",
+        "eng": "castle"
+    },
+    {
+        "kanji": "患",
+        "kun": "",
+        "on": "カン ワズラ.",
+        "eng": "afflicted, disease, suffer from, be ill"
+    },
+    {
+        "kanji": "層",
+        "kun": "",
+        "on": "ソウ",
+        "eng": "stratum, social class, layer, story, floor"
+    },
+    {
+        "kanji": "版",
+        "kun": "",
+        "on": "ハン",
+        "eng": "printing block, printing plate, edition, impression, label"
+    },
+    {
+        "kanji": "令",
+        "kun": "",
+        "on": "レ",
+        "eng": "orders, ancient laws, command, decree"
+    },
+    {
+        "kanji": "角",
+        "kun": "かど",
+        "on": "カク ツ",
+        "eng": "angle, corner, square, horn, antlers"
+    },
+    {
+        "kanji": "絡",
+        "kun": "から.む から.まる",
+        "on": "ラク",
+        "eng": "entwine, coil around, get caught in"
+    },
+    {
+        "kanji": "損",
+        "kun": "そこ.なう そこな.う -そこ.なう そこ.ねる -そこ.ねる",
+        "on": "ソン",
+        "eng": "damage, loss, disadvantage, hurt, injure"
+    },
+    {
+        "kanji": "募",
+        "kun": "つの.る",
+        "on": "ボ",
+        "eng": "recruit, campaign, gather (contributions), enlist, grow violent"
+    },
+    {
+        "kanji": "裏",
+        "kun": "うら",
+        "on": "リ",
+        "eng": "back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side"
+    },
+    {
+        "kanji": "仏",
+        "kun": "ほとけ",
+        "on": "ブツ フツ",
+        "eng": "Buddha, the dead, France"
+    },
+    {
+        "kanji": "績",
+        "kun": "",
+        "on": "セ",
+        "eng": "exploits, unreeling cocoons"
+    },
+    {
+        "kanji": "築",
+        "kun": "",
+        "on": "チク キズ.",
+        "eng": "fabricate, build, construct"
+    },
+    {
+        "kanji": "貨",
+        "kun": "",
+        "on": "カ",
+        "eng": "freight, goods, property"
+    },
+    {
+        "kanji": "混",
+        "kun": "ま.じる -ま.じり ま.ざる ま.ぜる こ.む",
+        "on": "コン",
+        "eng": "mix, blend, confuse"
+    },
+    {
+        "kanji": "昇",
+        "kun": "",
+        "on": "ショウ ノボ.",
+        "eng": "rise up"
+    },
+    {
+        "kanji": "池",
+        "kun": "いけ",
+        "on": "チ",
+        "eng": "pond, cistern, pool, reservoir"
+    },
+    {
+        "kanji": "血",
+        "kun": "ち",
+        "on": "ケツ",
+        "eng": "blood"
+    },
+    {
+        "kanji": "温",
+        "kun": "あたた.か あたた.かい あたた.まる あたた.める",
+        "on": "オン ヌ",
+        "eng": "warm"
+    },
+    {
+        "kanji": "季",
+        "kun": "",
+        "on": "",
+        "eng": "seasons"
+    },
+    {
+        "kanji": "星",
+        "kun": "ほし -ぼし",
+        "on": "セイ ショウ",
+        "eng": "star, spot, dot, mark"
+    },
+    {
+        "kanji": "永",
+        "kun": "",
+        "on": "エイ ナガ.",
+        "eng": "eternity, long, lengthy"
+    },
+    {
+        "kanji": "著",
+        "kun": "あらわ.す いちじる.しい",
+        "on": "チョ チャク",
+        "eng": "renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suit"
+    },
+    {
+        "kanji": "誌",
+        "kun": "",
+        "on": "シ",
+        "eng": "document, records"
+    },
+    {
+        "kanji": "庫",
+        "kun": "くら",
+        "on": "コ ク",
+        "eng": "warehouse, storehouse"
+    },
+    {
+        "kanji": "刊",
+        "kun": "",
+        "on": "カン",
+        "eng": "publish, carve, engrave"
+    },
+    {
+        "kanji": "像",
+        "kun": "",
+        "on": "ゾ",
+        "eng": "statue, picture, image, figure, portrait"
+    },
+    {
+        "kanji": "香",
+        "kun": "か かお.り",
+        "on": "コウ キョウ カオ.",
+        "eng": "incense, smell, perfume"
+    },
+    {
+        "kanji": "坂",
+        "kun": "",
+        "on": "ハン サ",
+        "eng": "slope, incline, hill"
+    },
+    {
+        "kanji": "底",
+        "kun": "そこ",
+        "on": "テイ",
+        "eng": "bottom, sole, depth, bottom price, base, kind, sort"
+    },
+    {
+        "kanji": "布",
+        "kun": "",
+        "on": "フ ヌ",
+        "eng": "linen, cloth"
+    },
+    {
+        "kanji": "寺",
+        "kun": "てら",
+        "on": "ジ",
+        "eng": "Buddhist temple"
+    },
+    {
+        "kanji": "宇",
+        "kun": "",
+        "on": "",
+        "eng": "eaves, roof, house, heaven"
+    },
+    {
+        "kanji": "巨",
+        "kun": "",
+        "on": "キ",
+        "eng": "gigantic, big, large, great"
+    },
+    {
+        "kanji": "震",
+        "kun": "ふる.う ふる.える",
+        "on": "シン",
+        "eng": "quake, shake, tremble, quiver, shiver"
+    },
+    {
+        "kanji": "希",
+        "kun": "",
+        "on": "キ ケ マ",
+        "eng": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal"
+    },
+    {
+        "kanji": "触",
+        "kun": "ふ.れる さわ.る さわ",
+        "on": "ショク",
+        "eng": "contact, touch, feel, hit, proclaim, announce, conflict"
+    },
+    {
+        "kanji": "依",
+        "kun": "",
+        "on": "イ エ ヨ.",
+        "eng": "reliant, depend on, consequently, therefore, due to"
+    },
+    {
+        "kanji": "籍",
+        "kun": "",
+        "on": "セキ",
+        "eng": "enroll, domiciliary register, membership"
+    },
+    {
+        "kanji": "汚",
+        "kun": "けが.す けが.れる けが.らわしい よご.す よご.れる きたな.い",
+        "on": "オ",
+        "eng": "dirty, pollute, disgrace, rape, defile"
+    },
+    {
+        "kanji": "枚",
+        "kun": "",
+        "on": "マイ バ",
+        "eng": "sheet of..., counter for flat thin objects or sheets"
+    },
+    {
+        "kanji": "複",
+        "kun": "",
+        "on": "フク",
+        "eng": "duplicate, double, compound, multiple"
+    },
+    {
+        "kanji": "郵",
+        "kun": "",
+        "on": "ユウ",
+        "eng": "mail, stagecoach stop"
+    },
+    {
+        "kanji": "仲",
+        "kun": "",
+        "on": "チュウ ナ",
+        "eng": "go-between, relationship"
+    },
+    {
+        "kanji": "栄",
+        "kun": "さか.える は.え -ば.え は.える",
+        "on": "エイ ヨウ",
+        "eng": "flourish, prosperity, honor, glory, splendor"
+    },
+    {
+        "kanji": "札",
+        "kun": "",
+        "on": "サツ フ",
+        "eng": "tag, paper money, counter for bonds, placard, bid"
+    },
+    {
+        "kanji": "板",
+        "kun": "いた",
+        "on": "ハン バン",
+        "eng": "plank, board, plate, stage"
+    },
+    {
+        "kanji": "骨",
+        "kun": "ほね",
+        "on": "コツ",
+        "eng": "skeleton, bone, remains, frame"
+    },
+    {
+        "kanji": "傾",
+        "kun": "かたむ.く かたむ.ける かたぶ.く かた.げる かし.げる",
+        "on": "ケイ",
+        "eng": "lean, incline, tilt, trend, wane, sink, ruin, bias"
+    },
+    {
+        "kanji": "届",
+        "kun": "とど.ける -とど.け とど.く",
+        "on": "カイ",
+        "eng": "deliver, reach, arrive, report, notify, forward"
+    },
+    {
+        "kanji": "巻",
+        "kun": "ま.く まき ま.き",
+        "on": "カン ケン",
+        "eng": "scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)"
+    },
+    {
+        "kanji": "燃",
+        "kun": "も.える も.やす も.す",
+        "on": "ネン",
+        "eng": "burn, blaze, glow"
+    },
+    {
+        "kanji": "跡",
+        "kun": "あと",
+        "on": "セキ",
+        "eng": "tracks, mark, print, impression"
+    },
+    {
+        "kanji": "包",
+        "kun": "つつ.む",
+        "on": "ホウ クル.",
+        "eng": "wrap, pack up, cover, conceal"
+    },
+    {
+        "kanji": "駐",
+        "kun": "",
+        "on": "チュウ",
+        "eng": "stop-over, reside in, resident"
+    },
+    {
+        "kanji": "弱",
+        "kun": "よわ.い よわ.る よわ.まる よわ.める",
+        "on": "ジャク",
+        "eng": "weak, frail"
+    },
+    {
+        "kanji": "紹",
+        "kun": "",
+        "on": "ショ",
+        "eng": "introduce, inherit, help"
+    },
+    {
+        "kanji": "雇",
+        "kun": "やと.う",
+        "on": "コ",
+        "eng": "employ, hire"
+    },
+    {
+        "kanji": "替",
+        "kun": "か.える か.え-",
+        "on": "タイ カ.ワ",
+        "eng": "exchange, spare, substitute, per-"
+    },
+    {
+        "kanji": "預",
+        "kun": "あず.ける あず.かる",
+        "on": "ヨ",
+        "eng": "deposit, custody, leave with, entrust to"
+    },
+    {
+        "kanji": "焼",
+        "kun": "や.く や.き や.き- -や.き",
+        "on": "ショウ ヤ.ケ",
+        "eng": "bake, burning"
+    },
+    {
+        "kanji": "簡",
+        "kun": "",
+        "on": "カン",
+        "eng": "simplicity, brevity"
+    },
+    {
+        "kanji": "章",
+        "kun": "",
+        "on": "ショ",
+        "eng": "badge, chapter, composition, poem, design"
+    },
+    {
+        "kanji": "臓",
+        "kun": "はらわた",
+        "on": "ゾウ",
+        "eng": "entrails, viscera, bowels"
+    },
+    {
+        "kanji": "律",
+        "kun": "",
+        "on": "リツ リチ レ",
+        "eng": "rhythm, law, regulation, gauge, control"
+    },
+    {
+        "kanji": "贈",
+        "kun": "おく.る",
+        "on": "ゾウ ソウ",
+        "eng": "presents, send, give to, award to, confer on, presenting something"
+    },
+    {
+        "kanji": "照",
+        "kun": "て.る て.らす",
+        "on": "ショウ テ.レ",
+        "eng": "illuminate, shine, compare, bashful"
+    },
+    {
+        "kanji": "薄",
+        "kun": "うす.い うす- -うす うす.める うす.まる うす.らぐ うす.ら- うす.れる すすき",
+        "on": "ハク",
+        "eng": "dilute, thin, weak (tea)"
+    },
+    {
+        "kanji": "群",
+        "kun": "む.れる む.れ むら",
+        "on": "グン ムラ.ガ",
+        "eng": "flock, group, crowd, herd, swarm, cluster"
+    },
+    {
+        "kanji": "秒",
+        "kun": "",
+        "on": "ビョウ",
+        "eng": "second (1, 60 minute)"
+    },
+    {
+        "kanji": "奥",
+        "kun": "おく.まる",
+        "on": "オウ オク ク",
+        "eng": "heart, interior"
+    },
+    {
+        "kanji": "詰",
+        "kun": "つ.める つ.め -づ.め つ.まる",
+        "on": "キツ キチ ツ.",
+        "eng": "packed, close, pressed, reprove, rebuke, blame"
+    },
+    {
+        "kanji": "双",
+        "kun": "ふた たぐい ならぶ",
+        "on": "ソウ フタ",
+        "eng": "pair, set, comparison, counter for pairs"
+    },
+    {
+        "kanji": "刺",
+        "kun": "さ.す さ.さる さ.し さし とげ",
+        "on": "シ",
+        "eng": "thorn, pierce, stab, prick, sting, calling card"
+    },
+    {
+        "kanji": "純",
+        "kun": "",
+        "on": "ジュ",
+        "eng": "genuine, purity, innocence, net (profit)"
+    },
+    {
+        "kanji": "翌",
+        "kun": "",
+        "on": "ヨク",
+        "eng": "the following, next"
+    },
+    {
+        "kanji": "快",
+        "kun": "",
+        "on": "カイ ココロヨ.",
+        "eng": "cheerful, pleasant, agreeable, comfortable"
+    },
+    {
+        "kanji": "片",
+        "kun": "かた- かた",
+        "on": "ヘン",
+        "eng": "one-sided, leaf, sheet"
+    },
+    {
+        "kanji": "敬",
+        "kun": "",
+        "on": "ケイ キョウ ウヤマ.",
+        "eng": "awe, respect, honor, revere"
+    },
+    {
+        "kanji": "悩",
+        "kun": "なや.む なや.ます なや.ましい なやみ",
+        "on": "ノウ",
+        "eng": "trouble, worry, in pain, distress, illness"
+    },
+    {
+        "kanji": "泉",
+        "kun": "",
+        "on": "セン イズ",
+        "eng": "spring, fountain"
+    },
+    {
+        "kanji": "皮",
+        "kun": "けがわ",
+        "on": "",
+        "eng": "pelt, skin, hide, leather"
+    },
+    {
+        "kanji": "漁",
+        "kun": "あさ.る",
+        "on": "ギョ リョウ",
+        "eng": "fishing, fishery"
+    },
+    {
+        "kanji": "荒",
+        "kun": "あら.い あら- あ.れる あ.らす -あ.らし",
+        "on": "コウ スサ.",
+        "eng": "laid waste, rough, rude, wild"
+    },
+    {
+        "kanji": "貯",
+        "kun": "た.める たくわ.える",
+        "on": "チョ",
+        "eng": "savings, store, lay in, keep, wear mustache"
+    },
+    {
+        "kanji": "硬",
+        "kun": "かた.い",
+        "on": "コウ",
+        "eng": "stiff, hard"
+    },
+    {
+        "kanji": "埋",
+        "kun": "う.める う.まる う.もれる うず.める うず.まる い.ける",
+        "on": "マイ",
+        "eng": "bury, be filled up, embedded"
+    },
+    {
+        "kanji": "柱",
+        "kun": "はしら",
+        "on": "チュウ",
+        "eng": "pillar, post, cylinder, support"
+    },
+    {
+        "kanji": "祭",
+        "kun": "まつ.る まつ.り まつり",
+        "on": "サイ",
+        "eng": "ritual, offer prayers, celebrate, deify, enshrine, worship"
+    },
+    {
+        "kanji": "袋",
+        "kun": "",
+        "on": "タイ ダイ フク",
+        "eng": "sack, bag, pouch"
+    },
+    {
+        "kanji": "筆",
+        "kun": "",
+        "on": "ヒツ フ",
+        "eng": "writing brush, writing, painting brush, handwriting"
+    },
+    {
+        "kanji": "訓",
+        "kun": "おし.える よ.む",
+        "on": "クン キン クン.ズ",
+        "eng": "instruction, Japanese character reading, explanation, read"
+    },
+    {
+        "kanji": "浴",
+        "kun": "あ.びる",
+        "on": "ヨク ア.ビセ",
+        "eng": "bathe, be favored with, bask in"
+    },
+    {
+        "kanji": "童",
+        "kun": "",
+        "on": "ドウ ワラ",
+        "eng": "juvenile, child"
+    },
+    {
+        "kanji": "宝",
+        "kun": "",
+        "on": "ホウ タカ",
+        "eng": "treasure, wealth, valuables"
+    },
+    {
+        "kanji": "封",
+        "kun": "",
+        "on": "フウ ホウ",
+        "eng": "seal, closing"
+    },
+    {
+        "kanji": "胸",
+        "kun": "むね むな-",
+        "on": "キョウ",
+        "eng": "bosom, breast, chest, heart, feelings"
+    },
+    {
+        "kanji": "砂",
+        "kun": "",
+        "on": "サ シャ ス",
+        "eng": "sand"
+    },
+    {
+        "kanji": "塩",
+        "kun": "しお",
+        "on": "エン",
+        "eng": "salt"
+    },
+    {
+        "kanji": "賢",
+        "kun": "",
+        "on": "ケン カシコ.",
+        "eng": "intelligent, wise, wisdom, cleverness"
+    },
+    {
+        "kanji": "腕",
+        "kun": "うで",
+        "on": "ワン",
+        "eng": "arm, ability, talent"
+    },
+    {
+        "kanji": "兆",
+        "kun": "きざ.す きざ.し",
+        "on": "チョウ",
+        "eng": "portent, 10**12, trillion, sign, omen, symptoms"
+    },
+    {
+        "kanji": "床",
+        "kun": "とこ ゆか",
+        "on": "ショウ",
+        "eng": "bed, floor, padding, tatami"
+    },
+    {
+        "kanji": "毛",
+        "kun": "",
+        "on": "モウ",
+        "eng": "fur, hair, feather, down"
+    },
+    {
+        "kanji": "緑",
+        "kun": "みどり",
+        "on": "リョク ロク",
+        "eng": "green"
+    },
+    {
+        "kanji": "尊",
+        "kun": "たっと.い とうと.い たっと.ぶ",
+        "on": "ソン トウト.",
+        "eng": "revered, valuable, precious, noble, exalted"
+    },
+    {
+        "kanji": "祝",
+        "kun": "",
+        "on": "シュク シュウ イワ.",
+        "eng": "celebrate, congratulate"
+    },
+    {
+        "kanji": "柔",
+        "kun": "やわ.らか やわ.らかい やわ",
+        "on": "ジュウ ニュウ ヤワ.",
+        "eng": "tender, weakness, gentleness, softness"
+    },
+    {
+        "kanji": "殿",
+        "kun": "との",
+        "on": "デン テン -ド",
+        "eng": "Mr., hall, mansion, palace, temple, lord"
+    },
+    {
+        "kanji": "濃",
+        "kun": "",
+        "on": "ノウ コ.",
+        "eng": "concentrated, thick, dark, undiluted"
+    },
+    {
+        "kanji": "液",
+        "kun": "",
+        "on": "エキ",
+        "eng": "fluid, liquid, juice, sap, secretion"
+    },
+    {
+        "kanji": "衣",
+        "kun": "ころも きぬ -ぎ",
+        "on": "イ エ",
+        "eng": "garment, clothes, dressing"
+    },
+    {
+        "kanji": "肩",
+        "kun": "かた",
+        "on": "ケン",
+        "eng": "shoulder"
+    },
+    {
+        "kanji": "零",
+        "kun": "ぜろ こぼ.す こぼ.れる",
+        "on": "レイ",
+        "eng": "zero, spill, overflow, nothing, cipher"
+    },
+    {
+        "kanji": "幼",
+        "kun": "",
+        "on": "ヨウ オサナ.",
+        "eng": "infancy, childhood"
+    },
+    {
+        "kanji": "荷",
+        "kun": "",
+        "on": "カ",
+        "eng": "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight"
+    },
+    {
+        "kanji": "泊",
+        "kun": "と.まる",
+        "on": "ハク ト.メ",
+        "eng": "overnight, put up at, ride at anchor, 3-day stay"
+    },
+    {
+        "kanji": "黄",
+        "kun": "き こ",
+        "on": "コウ オウ",
+        "eng": "yellow"
+    },
+    {
+        "kanji": "甘",
+        "kun": "あま.い あま.える あま.やかす",
+        "on": "カン ウマ.",
+        "eng": "sweet, coax, pamper, be content, sugary"
+    },
+    {
+        "kanji": "臣",
+        "kun": "",
+        "on": "シン ジ",
+        "eng": "retainer, subject"
+    },
+    {
+        "kanji": "浅",
+        "kun": "",
+        "on": "セン アサ.",
+        "eng": "shallow, superficial, frivolous, wretched, shameful"
+    },
+    {
+        "kanji": "掃",
+        "kun": "",
+        "on": "ソウ シュ ハ.",
+        "eng": "sweep, brush"
+    },
+    {
+        "kanji": "雲",
+        "kun": "くも",
+        "on": "ウン -グ",
+        "eng": "cloud"
+    },
+    {
+        "kanji": "掘",
+        "kun": "",
+        "on": "クツ ホ.",
+        "eng": "dig, delve, excavate"
+    },
+    {
+        "kanji": "捨",
+        "kun": "す.てる",
+        "on": "シャ",
+        "eng": "discard, throw away, abandon, resign, reject, sacrifice"
+    },
+    {
+        "kanji": "軟",
+        "kun": "やわ.らか やわ.らかい",
+        "on": "ナン",
+        "eng": "soft"
+    },
+    {
+        "kanji": "沈",
+        "kun": "しず.む",
+        "on": "チン ジン シズ.メ",
+        "eng": "sink, be submerged, subside, be depressed, aloes"
+    },
+    {
+        "kanji": "凍",
+        "kun": "こお.る こご.える こご.る い.てる",
+        "on": "トウ シ.ミ",
+        "eng": "frozen, congeal, refrigerate"
+    },
+    {
+        "kanji": "乳",
+        "kun": "ちち ち",
+        "on": "ニュウ",
+        "eng": "milk, breasts"
+    },
+    {
+        "kanji": "恋",
+        "kun": "こ.う こい こい.しい",
+        "on": "レン",
+        "eng": "romance, in love, yearn for, miss, darling"
+    },
+    {
+        "kanji": "紅",
+        "kun": "べに くれない",
+        "on": "コウ ク アカ.",
+        "eng": "crimson, deep red"
+    },
+    {
+        "kanji": "郊",
+        "kun": "",
+        "on": "コウ",
+        "eng": "outskirts, suburbs, rural area"
+    },
+    {
+        "kanji": "腰",
+        "kun": "",
+        "on": "ヨウ コ",
+        "eng": "loins, hips, waist, low wainscoting"
+    },
+    {
+        "kanji": "炭",
+        "kun": "すみ",
+        "on": "タン",
+        "eng": "charcoal, coal"
+    },
+    {
+        "kanji": "踊",
+        "kun": "おど.る",
+        "on": "ヨウ",
+        "eng": "jump, dance, leap, skip"
+    },
+    {
+        "kanji": "冊",
+        "kun": "ふみ",
+        "on": "サツ サク",
+        "eng": "tome, counter for books, volume"
+    },
+    {
+        "kanji": "勇",
+        "kun": "",
+        "on": "ユウ イサ.",
+        "eng": "courage, cheer up, be in high spirits, bravery, heroism"
+    },
+    {
+        "kanji": "械",
+        "kun": "かせ",
+        "on": "カイ",
+        "eng": "contraption, fetter, machine, instrument"
+    },
+    {
+        "kanji": "菜",
+        "kun": "",
+        "on": "サイ",
+        "eng": "vegetable, side dish, greens"
+    },
+    {
+        "kanji": "珍",
+        "kun": "めずら.しい",
+        "on": "チン タカ",
+        "eng": "rare, curious, strange"
+    },
+    {
+        "kanji": "卵",
+        "kun": "たまご",
+        "on": "ラン",
+        "eng": "egg, ovum, spawn, roe"
+    },
+    {
+        "kanji": "湖",
+        "kun": "",
+        "on": "コ ミズウ",
+        "eng": "lake"
+    },
+    {
+        "kanji": "喫",
+        "kun": "",
+        "on": "キツ",
+        "eng": "consume, eat, drink, smoke, receive (a blow)"
+    },
+    {
+        "kanji": "干",
+        "kun": "ほ.す ほ.し- -ぼ.し",
+        "on": "カン ヒ.",
+        "eng": "dry, parch"
+    },
+    {
+        "kanji": "虫",
+        "kun": "",
+        "on": "チュウ キ ム",
+        "eng": "insect, bug, temper"
+    },
+    {
+        "kanji": "刷",
+        "kun": "す.る -ず.り -ずり は.く",
+        "on": "サツ",
+        "eng": "printing, print"
+    },
+    {
+        "kanji": "湯",
+        "kun": "ゆ",
+        "on": "トウ",
+        "eng": "hot water, bath, hot spring"
+    },
+    {
+        "kanji": "溶",
+        "kun": "と.ける と.かす と.く",
+        "on": "ヨウ",
+        "eng": "melt, dissolve, thaw"
+    },
+    {
+        "kanji": "鉱",
+        "kun": "あらがね",
+        "on": "コウ",
+        "eng": "mineral, ore"
+    },
+    {
+        "kanji": "涙",
+        "kun": "なみだ",
+        "on": "ルイ レイ",
+        "eng": "tears, sympathy"
+    },
+    {
+        "kanji": "匹",
+        "kun": "ひき",
+        "on": "ヒツ",
+        "eng": "equal, head, counter for small animals, roll of cloth"
+    },
+    {
+        "kanji": "孫",
+        "kun": "",
+        "on": "ソン マ",
+        "eng": "grandchild, descendants"
+    },
+    {
+        "kanji": "鋭",
+        "kun": "",
+        "on": "エイ スルド.",
+        "eng": "pointed, sharpness, edge, weapon, sharp, violent"
+    },
+    {
+        "kanji": "枝",
+        "kun": "",
+        "on": "シ エ",
+        "eng": "bough, branch, twig, limb"
+    },
+    {
+        "kanji": "塗",
+        "kun": "ぬ.る ぬ.り まみ.れる",
+        "on": "ト",
+        "eng": "paint, plaster, daub, smear, coating"
+    },
+    {
+        "kanji": "軒",
+        "kun": "のき",
+        "on": "ケン",
+        "eng": "flats, counter for houses, eaves"
+    },
+    {
+        "kanji": "毒",
+        "kun": "",
+        "on": "ドク",
+        "eng": "poison, virus, venom, germ, harm, injury, spite"
+    },
+    {
+        "kanji": "叫",
+        "kun": "さけ.ぶ",
+        "on": "キョウ",
+        "eng": "shout, exclaim, yell"
+    },
+    {
+        "kanji": "拝",
+        "kun": "おが.む おろが.む",
+        "on": "ハイ",
+        "eng": "worship, adore, pray to"
+    },
+    {
+        "kanji": "氷",
+        "kun": "こおり ひ",
+        "on": "ヒョウ コオ.",
+        "eng": "icicle, ice, hail, freeze, congeal"
+    },
+    {
+        "kanji": "乾",
+        "kun": "かわ.く かわ.かす ほ.す ひ.る いぬい",
+        "on": "カン ケン",
+        "eng": "drought, dry, dessicate, drink up, heaven, emperor"
+    },
+    {
+        "kanji": "棒",
+        "kun": "",
+        "on": "ボウ",
+        "eng": "rod, stick, cane, pole, club, line"
+    },
+    {
+        "kanji": "祈",
+        "kun": "",
+        "on": "キ イノ.",
+        "eng": "pray, wish"
+    },
+    {
+        "kanji": "拾",
+        "kun": "ひろ.う",
+        "on": "シュウ ジュウ",
+        "eng": "pick up, gather, find, go on foot, ten"
+    },
+    {
+        "kanji": "粉",
+        "kun": "こ こな",
+        "on": "フン デシメートル",
+        "eng": "flour, powder, dust"
+    },
+    {
+        "kanji": "糸",
+        "kun": "いと",
+        "on": "シ",
+        "eng": "thread"
+    },
+    {
+        "kanji": "綿",
+        "kun": "",
+        "on": "メン ワ",
+        "eng": "cotton"
+    },
+    {
+        "kanji": "汗",
+        "kun": "あせ",
+        "on": "カン",
+        "eng": "sweat, perspire"
+    },
+    {
+        "kanji": "銅",
+        "kun": "あかがね",
+        "on": "ドウ",
+        "eng": "copper"
+    },
+    {
+        "kanji": "湿",
+        "kun": "しめ.る しめ.す うるお.う うるお.す",
+        "on": "シツ シュウ",
+        "eng": "damp, wet, moist"
+    },
+    {
+        "kanji": "瓶",
+        "kun": "",
+        "on": "ビン カ",
+        "eng": "flower pot, bottle, vial, jar, jug, vat, urn"
+    },
+    {
+        "kanji": "咲",
+        "kun": "さ.く",
+        "on": "ショウ -ザ",
+        "eng": "blossom, bloom"
+    },
+    {
+        "kanji": "召",
+        "kun": "め.す",
+        "on": "ショウ",
+        "eng": "seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)"
+    },
+    {
+        "kanji": "缶",
+        "kun": "",
+        "on": "カン カ",
+        "eng": "tin can, container"
+    },
+    {
+        "kanji": "隻",
+        "kun": "",
+        "on": "セキ",
+        "eng": "vessels, counter for ships, fish, birds, arrows, one of a pair"
+    },
+    {
+        "kanji": "脂",
+        "kun": "あぶら",
+        "on": "シ",
+        "eng": "fat, grease, tallow, lard, rosin, gum, tar"
+    },
+    {
+        "kanji": "蒸",
+        "kun": "む.す む.れる む.らす",
+        "on": "ジョウ セイ",
+        "eng": "steam, heat, sultry, foment, get musty"
+    },
+    {
+        "kanji": "肌",
+        "kun": "はだ",
+        "on": "キ",
+        "eng": "texture, skin, body, grain"
+    },
+    {
+        "kanji": "耕",
+        "kun": "",
+        "on": "コウ タガヤ.",
+        "eng": "till, plow, cultivate"
+    },
+    {
+        "kanji": "鈍",
+        "kun": "にぶ.い にぶ.る にぶ- なま.る なまく.ら",
+        "on": "ドン",
+        "eng": "dull, slow, foolish, blunt"
+    },
+    {
+        "kanji": "泥",
+        "kun": "",
+        "on": "デイ ナイ デ ニ ド",
+        "eng": "mud, mire, adhere to, be attached to"
+    },
+    {
+        "kanji": "隅",
+        "kun": "すみ",
+        "on": "グウ",
+        "eng": "corner, nook"
+    },
+    {
+        "kanji": "灯",
+        "kun": "ひ ほ- ともしび とも.す あかり",
+        "on": "トウ",
+        "eng": "lamp, a light, light, counter for lights"
+    },
+    {
+        "kanji": "辛",
+        "kun": "から.い つら.い -づら.い かのと",
+        "on": "シン",
+        "eng": "spicy, bitter, hot, acrid"
+    },
+    {
+        "kanji": "磨",
+        "kun": "みが.く",
+        "on": "マ ス.",
+        "eng": "grind, polish, scour, improve, brush (teeth)"
+    },
+    {
+        "kanji": "麦",
+        "kun": "むぎ",
+        "on": "バク",
+        "eng": "barley, wheat"
+    },
+    {
+        "kanji": "姓",
+        "kun": "",
+        "on": "セイ ショウ",
+        "eng": "surname"
+    },
+    {
+        "kanji": "筒",
+        "kun": "つつ",
+        "on": "トウ",
+        "eng": "cylinder, pipe, tube, gun barrel, sleeve"
+    },
+    {
+        "kanji": "鼻",
+        "kun": "はな",
+        "on": "ビ",
+        "eng": "nose, snout"
+    },
+    {
+        "kanji": "粒",
+        "kun": "つぶ",
+        "on": "リュウ",
+        "eng": "grains, drop, counter for tiny particles"
+    },
+    {
+        "kanji": "詞",
+        "kun": "",
+        "on": "シ",
+        "eng": "part of speech, words, poetry"
+    },
+    {
+        "kanji": "胃",
+        "kun": "",
+        "on": "イ",
+        "eng": "stomach, paunch, crop, craw"
+    },
+    {
+        "kanji": "畳",
+        "kun": "たた.む たたみ かさ.なる",
+        "on": "ジョウ チョウ",
+        "eng": "tatami mat, counter for tatami mats, fold, shut up, do away with"
+    },
+    {
+        "kanji": "机",
+        "kun": "つくえ",
+        "on": "キ",
+        "eng": "desk, table"
+    },
+    {
+        "kanji": "膚",
+        "kun": "はだ",
+        "on": "フ",
+        "eng": "skin, body, grain, texture, disposition"
+    },
+    {
+        "kanji": "濯",
+        "kun": "すす.ぐ ゆす.ぐ",
+        "on": "タク",
+        "eng": "laundry, wash, pour on, rinse"
+    },
+    {
+        "kanji": "塔",
+        "kun": "",
+        "on": "トウ",
+        "eng": "pagoda, tower, steeple"
+    },
+    {
+        "kanji": "沸",
+        "kun": "わ.く わ.かす",
+        "on": "フツ",
+        "eng": "seethe, boil, ferment, uproar, breed"
+    },
+    {
+        "kanji": "灰",
+        "kun": "はい",
+        "on": "カイ",
+        "eng": "ashes, puckery juice, cremate"
+    },
+    {
+        "kanji": "菓",
+        "kun": "",
+        "on": "カ",
+        "eng": "candy, cakes, fruit"
+    },
+    {
+        "kanji": "帽",
+        "kun": "ずきん おお.う",
+        "on": "ボウ モウ",
+        "eng": "cap, headgear"
+    },
+    {
+        "kanji": "枯",
+        "kun": "か.れる か.らす",
+        "on": "コ",
+        "eng": "wither, die, dry up, be seasoned"
+    },
+    {
+        "kanji": "涼",
+        "kun": "すず.しい すず.む すず.やか うす.い ひや.す",
+        "on": "リョウ マコト",
+        "eng": "refreshing, nice and cool"
+    },
+    {
+        "kanji": "舟",
+        "kun": "ふね ふな- -ぶね",
+        "on": "シュウ",
+        "eng": "boat, ship"
+    },
+    {
+        "kanji": "貝",
+        "kun": "かい",
+        "on": "バイ",
+        "eng": "shellfish"
+    },
+    {
+        "kanji": "符",
+        "kun": "",
+        "on": "フ",
+        "eng": "token, sign, mark, tally, charm"
+    },
+    {
+        "kanji": "憎",
+        "kun": "にく.む にく.い にく.らしい にく.しみ",
+        "on": "ゾウ",
+        "eng": "hate, detest"
+    },
+    {
+        "kanji": "皿",
+        "kun": "さら",
+        "on": "ベイ",
+        "eng": "dish, a helping, plate"
+    },
+    {
+        "kanji": "肯",
+        "kun": "がえんじ.る",
+        "on": "コウ",
+        "eng": "agreement, consent, comply with"
+    },
+    {
+        "kanji": "燥",
+        "kun": "はしゃ.ぐ",
+        "on": "ソウ",
+        "eng": "parch, dry up"
+    },
+    {
+        "kanji": "畜",
+        "kun": "",
+        "on": "チク",
+        "eng": "livestock, domestic fowl and animals"
+    },
+    {
+        "kanji": "挟",
+        "kun": "はさ.む はさ.まる わきばさ.む さしはさ.む",
+        "on": "キョウ ショウ",
+        "eng": "pinch, between"
+    },
+    {
+        "kanji": "曇",
+        "kun": "",
+        "on": "ドン クモ.",
+        "eng": "cloudy weather, cloud up"
+    },
+    {
+        "kanji": "滴",
+        "kun": "しずく したた.る",
+        "on": "テキ",
+        "eng": "drip, drop"
+    },
+    {
+        "kanji": "伺",
+        "kun": "うかが.う",
+        "on": "シ",
+        "eng": "pay respects, visit, ask, inquire, question, implore"
+    }
+]
